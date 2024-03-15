@@ -18,8 +18,8 @@ DHT dht(DHTPIN, DHTTYPE);
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Redmi 9"
-#define WIFI_PASSWORD "elang507"
+#define WIFI_SSID "Harapan Bersama"
+#define WIFI_PASSWORD "poltekharber"
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyDM2qOzSLxzlYbZn4xi4E0AFlnKYBuhzAA"
